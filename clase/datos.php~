@@ -1,0 +1,9 @@
+<?php
+$nombre = $_POST['Nombre'];
+$apellido = $_POST['Apellido'];
+
+echo "Hola " .$nombre. " " .$apellido;
+
+
+?>
+
