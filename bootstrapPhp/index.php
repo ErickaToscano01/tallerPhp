@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7f34e566a115bea29344475ccc103c0c9c0e6c37
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
